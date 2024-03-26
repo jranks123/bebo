@@ -342,6 +342,10 @@ a:hover {
     font-family: Arial,Helvetica,sans-serif
 }
 
+.deets {
+    color:  #FF69B4;
+}
+
 .linksSubnav {
     font-size: 13px;
     font-family: Arial,Helvetica,sans-serif;

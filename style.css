@@ -19,6 +19,7 @@ body,td,p {
     left: 0;
     width: 100%; /* Ensure it spans the full width of the viewport */
     z-index: 1000; 
+    cursor: pointer; 
 }
 
 .mainbody {
